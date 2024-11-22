@@ -17,10 +17,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxmin&layout=donut)](https://github.com/zxxmin/github-readme-stats)
 
 ### 2024
-<details markdown="1">
+<details markdown="7">
+  <summary>[경기도교육청] AI진로진학 교육지원 시스템 - (24.10 ~)</summary>
+  <div>
+    <ul>
+      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, Next.js-14.x, @tanstack/react-query v5, Recoil</li>
+      <li>경기도 교육청에서 사용하는 진로진학 소개 및 AI 모의면접 예약, AI 진로설계를 위한 심리검사 등을 개발 중</li>
+    </ul>
+  </div>
+</details>
+<details markdown="6">
   <summary>[경남교육청] AI 도움쌤 - (24.05.21~24.06.05)</summary>
   <div>
     <ul>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>이미지 최적화를 위해 Data URI로 브라우저 캐시 이용</li>
       <li>검색형 AI 챗봇 기능 구현</li>
       <li>질의 및 응답 CRUD 기능 구현</li>
@@ -29,18 +39,20 @@
     </ul>
   </div>
 </details>
-<details markdown="2">
+<details markdown="5">
   <summary>[통합] SMILE LRS - (24.05.02~24.05.10)</summary>
   <div>
     <ul>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript</li>
       <li>xAPI 결과 데이터 시각화</li>
     </ul>
   </div>
 </details>
-<details markdown="3">
+<details markdown="4">
   <summary>[충북교육청] 다채움 - (1차: 23.07~23.09/고도화: 24.01~24.02)</summary>
   <div>
     <ul>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>로딩 속도 최적화 (무한 스크롤 기능 구현)</li>
       <li>이미지 최적화를 위해 Data URI로 브라우저 캐시 이용</li>
       <li>채움책방 책 검색 기능 구현</li>
@@ -54,15 +66,16 @@
 </details>
 
 ### 2023
-<details markdown="4">
+<details markdown="3">
   <summary>[경남교육청] 톡톡학습분석 - (23.06~34.07)</summary>
-  <div>
+  <div
     <ul>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript</li>
       <li>그래프 하드코딩</li>
     </ul>
   </div>
 </details>
-<details markdown="5">
+<details markdown="2">
   <summary>[경남교육청] 뉴탭&톡톡클래스 - (23.02~)</summary>
   <div>
     <ul>
@@ -71,8 +84,8 @@
     </ul>
   </div>
 </details>
-<details markdown="6">
-  <summary>[전남교육청] 전남메타스쿨쿨 - (23.02~)</summary>
+<details markdown="1">
+  <summary>[전남교육청] 전남메타스쿨 - (23.02~)</summary>
   <div>
     <ul>
       <li>즐겨찾는 페이지 유지보수</li>

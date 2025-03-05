@@ -21,6 +21,7 @@
   <summary>[경기도교육청] AI 진로진학시스템 꿈it(잇)다 - (24.10 ~ 25.03)</summary>
   <div>
     <ul>
+      <li>🔭 link : <a href="https://jinro.goedu.kr">https://jinro.goedu.kr</a></li>
       <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, Next.js-14.x, @tanstack/react-query v5, Recoil, App Router</li>
       <li>AI 모의면접 예약 기능 구현</li>
       <li>AI 모의면접 분석 기능 구현</li>
@@ -55,6 +56,7 @@
   <summary>[경남교육청] AI 도움쌤 - (24.05.21~24.06.05)</summary>
   <div>
     <ul>
+      <li>🔭 link : <a href="https://tai.itt.link">https://tai.itt.link</a></li>
       <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>이미지 최적화를 위해 Data URI로 브라우저 캐시 이용</li>
       <li>검색형 AI 챗봇 기능 구현</li>
@@ -77,6 +79,7 @@
   <summary>[충북교육청] 다채움 - (1차: 23.07~23.09/고도화: 24.01~24.02)</summary>
   <div>
     <ul>
+      <li>🔭 link : <a href="https://dcu.cbe.go.kr">https://dcu.cbe.go.kr</a></li>
       <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>로딩 속도 최적화 (무한 스크롤 기능 구현)</li>
       <li>이미지 최적화를 위해 Data URI로 브라우저 캐시 이용</li>
@@ -95,6 +98,7 @@
   <summary>[경남교육청] 톡톡학습분석 - (23.06~34.07)</summary>
   <div
     <ul>
+      <li>🔭 link : <a href="https://la.itt.link">https://la.itt.link</a></li>
       <li><b>개발 언어</b> : HTML, SCSS, JavaScript</li>
       <li>그래프 하드코딩</li>
     </ul>
@@ -104,6 +108,7 @@
   <summary>[경남교육청] 뉴탭&톡톡클래스 - (23.02~)</summary>
   <div>
     <ul>
+      <li>🔭 link : <a href="https://newtab.itt.link">https://newtab.itt.link</a></li>
       <li>교사용 개인 정보 동의서 화면 구현</li>
       <li>유지보수</li>
     </ul>

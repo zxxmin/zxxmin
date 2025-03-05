@@ -16,16 +16,41 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxmin&layout=donut)](https://github.com/zxxmin/github-readme-stats)
 
-### 2024
+### 2025
 <details markdown="7">
-  <summary>[경기도교육청] AI진로진학 교육지원 시스템 - (24.10 ~)</summary>
+  <summary>[경기도교육청] AI 진로진학시스템 꿈it(잇)다 - (24.10 ~ 25.03)</summary>
   <div>
     <ul>
-      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, Next.js-14.x, @tanstack/react-query v5, Recoil</li>
-      <li>경기도 교육청에서 사용하는 진로진학 소개 및 AI 모의면접 예약, AI 진로설계를 위한 심리검사 등을 개발 중</li>
+      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, Next.js-14.x, @tanstack/react-query v5, Recoil, App Router</li>
+      <li>AI 모의면접 예약 기능 구현</li>
+      <li>AI 모의면접 분석 기능 구현</li>
+      <li>권한에 따라 기능이 다른 게시판 구현</li>
+      <li>OPEN API를 통해 학교 정보를 게시판 형태로 구현 및 위치 정보 지도 구현</li>
     </ul>
   </div>
 </details>
+<details markdown="8">
+  <summary>[충북교육청] 다채움 진로진학시스템 - (25.02)</summary>
+  <div>
+    <ul>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
+      <li>워크넷 시험 기능 구현</li>
+      <li>워크넷 시험 결과 기능 구현</li>
+    </ul>
+  </div>
+</details>
+<details markdown="9">
+  <summary>[충남교육지청] 청양 책봄 - (25.02)</summary>
+  <div>
+    <ul>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
+      <li>자동 승인 반일 경우에만 독서 그룹 바로 입장을 위한 QR 코드 기능 구현</li>
+      <li>독서 기록장 기능 구현</li>
+    </ul>
+  </div>
+</details>
+
+### 2024
 <details markdown="6">
   <summary>[경남교육청] AI 도움쌤 - (24.05.21~24.06.05)</summary>
   <div>

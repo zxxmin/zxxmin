@@ -2,7 +2,7 @@
 
 <h3>💕 Love it</h3>
 
-<img src="https://img.shields.io/badge/React-2a2f39?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-2a2f39?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-white?style=flat&logo=Jquery&logoColor=0868AC"/><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/>
 
 <h3>⚙️ Tools</h3>
 
@@ -43,6 +43,16 @@
       <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>자동 승인 반일 경우에만 독서 그룹 바로 입장을 위한 QR 코드 기능 구현</li>
       <li>독서 기록장 기능 구현</li>
+    </ul>
+  </div>
+</details>
+<details markdown="10">
+  <summary>[경남교육청] 톡톡클래스 - (25.03.21~25.04.04)</summary>
+  <div>
+    <ul>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
+      <li>톡톡 콘텐츠 사이트의 평가지 연동 - 평가지 관리 페이지 추가</li>
+      <li>과제방 및 학습방에 단원에 맞는 평가지 유형 검색 추가, 등록, 수정, 삭제 기능</li>
     </ul>
   </div>
 </details>

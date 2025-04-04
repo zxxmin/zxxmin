@@ -37,12 +37,14 @@
   </div>
 </details>
 <details markdown="9">
-  <summary>[충남교육지청] 청양 책봄 - (25.02)</summary>
+  <summary>[충남교육지청] 청양 책봄 북(book)돋음 - (25.02)</summary>
   <div>
     <ul>
       <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>자동 승인 반일 경우에만 독서 그룹 바로 입장을 위한 QR 코드 기능 구현</li>
       <li>독서 기록장 기능 구현</li>
+      <li>관리자 - 학생 추천 기능</li>
+      <li>관리자 - 독서 현황 확인 기능</li>
     </ul>
   </div>
 </details>

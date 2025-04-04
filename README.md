@@ -50,6 +50,7 @@
   <summary>[경남교육청] 톡톡클래스 - (25.03.21~25.04.04)</summary>
   <div>
     <ul>
+      <li>🔭 link : <a href="https://folio.itt.link">https://folio.itt.link</a></li>
       <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>톡톡 콘텐츠 사이트의 평가지 연동 - 평가지 관리 페이지 추가</li>
       <li>과제방 및 학습방에 단원에 맞는 평가지 유형 검색 추가, 등록, 수정, 삭제 기능</li>

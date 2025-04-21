@@ -18,11 +18,14 @@
   <div>
     <ul>
       <li>🔭 link : <a href="https://jinro.goedu.kr">https://jinro.goedu.kr</a></li>
-      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, Next.js-14.x, TypeSciprt, @tanstack/react-query v5, Recoil, App Router</li>
+      <li><b>개발 언어 및 프레임워크/라이브러리</b> : Node JS 20.x, React-18.x, Next.js-14.x, TypeSciprt, @tanstack/react-query v5, Recoil, App Router</li>
+      <li>서버 컴포넌트(route api 사용 등) / 클라이언트 컴포넌트 사용</li>
       <li>AI 모의면접 예약 기능 구현</li>
       <li>AI 모의면접 분석 기능 구현</li>
       <li>권한에 따라 기능이 다른 게시판 구현</li>
       <li>OPEN API를 통해 학교 정보를 게시판 형태로 구현 및 위치 정보 지도 구현</li>
+      <li>react-query 사용하여 캐싱 처리 및 불필요한 데이터 요청 하지 않도록 구현</li>
+      <li>웹접근성및 호환성 점검 테스트 감리, 보안취약점점검결과 감리 통과</li>
     </ul>
   </div>
 </details>
@@ -49,13 +52,24 @@
   </div>
 </details>
 <details markdown="10">
-  <summary>[경남교육청] 톡톡클래스 - (25.03.21~25.04.04)</summary>
+  <summary>[경남교육청] 톡톡클래스 (25.03.21~25.04.04)</summary>
   <div>
     <ul>
       <li>🔭 link : <a href="https://folio.itt.link">https://folio.itt.link</a></li>
       <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
       <li>톡톡 콘텐츠 사이트의 평가지 연동 - 평가지 관리 페이지 추가</li>
       <li>과제방 및 학습방에 단원에 맞는 평가지 유형 검색 추가, 등록, 수정, 삭제 기능</li>
+    </ul>
+  </div>
+</details>
+
+<details markdown="11">
+  <summary>[경남교육청] 뉴탭 (25.02~25.03)</summary>
+  <div>
+    <ul>
+      <li>🔭 link : <a href="https://newtab.itt.link">https://newtab.itt.link</a></li>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
+      <li>새학기 시작에 맞는 진학관리, 진급 관리 기능 추가</li>
     </ul>
   </div>
 </details>

@@ -18,7 +18,7 @@
   <div>
     <ul>
       <li>🔭 link : <a href="https://jinro.goedu.kr">https://jinro.goedu.kr</a></li>
-      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, Next.js-14.x, @tanstack/react-query v5, Recoil, App Router</li>
+      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, Next.js-14.x, TypeSciprt, @tanstack/react-query v5, Recoil, App Router</li>
       <li>AI 모의면접 예약 기능 구현</li>
       <li>AI 모의면접 분석 기능 구현</li>
       <li>권한에 따라 기능이 다른 게시판 구현</li>

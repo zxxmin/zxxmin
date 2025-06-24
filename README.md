@@ -29,6 +29,19 @@
     </ul>
   </div>
 </details>
+<details markdown="10">
+  <summary>[경남교육청] 톡톡클래스 4차 (25.03.21~ing)</summary>
+  <div>
+    <ul>
+      <li>🔭 link : <a href="https://folio.itt.link">https://folio.itt.link</a></li>
+      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
+      <li>톡톡 콘텐츠 사이트의 평가지 연동 - 평가지 관리 페이지 추가</li>
+      <li>과제방 및 학습방에 단원에 맞는 평가지 유형 검색 추가, 등록, 수정, 삭제 기능</li>
+      <li>외부 API (부커스) 연계 독서기록장 기능 추가</li>
+      <li>클래스에서 각 시간에 맞춰 배너를 클릭 하여 점수를 쌓는 클릭 이벤트 추가</li>
+    </ul>
+  </div>
+</details>
 <details markdown="8">
   <summary>[충북교육청] 다채움 진로진학시스템 - (25.02)</summary>
   <div>
@@ -51,18 +64,6 @@
     </ul>
   </div>
 </details>
-<details markdown="10">
-  <summary>[경남교육청] 톡톡클래스 (25.03.21~25.04.04)</summary>
-  <div>
-    <ul>
-      <li>🔭 link : <a href="https://folio.itt.link">https://folio.itt.link</a></li>
-      <li><b>개발 언어</b> : HTML, SCSS, JavaScript, JSP</li>
-      <li>톡톡 콘텐츠 사이트의 평가지 연동 - 평가지 관리 페이지 추가</li>
-      <li>과제방 및 학습방에 단원에 맞는 평가지 유형 검색 추가, 등록, 수정, 삭제 기능</li>
-    </ul>
-  </div>
-</details>
-
 <details markdown="11">
   <summary>[경남교육청] 뉴탭 (25.02~25.03)</summary>
   <div>

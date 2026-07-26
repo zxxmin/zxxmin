@@ -12,6 +12,50 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxmin&layout=donut)](https://github.com/zxxmin/github-readme-stats)
 
+### 2026
+<details markdown="15">
+  <summary>CRSN Platform (26.05 ~ 26.08)</summary>
+  <div>
+    <ul>
+      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, TypeSciprt, @tanstack/react-query, Zustand, MUI</li>
+      <li>데이터 관리 플랫폼으로, 다양한 데이터 소스 연결부터 데이터 검증 파이프라인 생성·모니터링, 이상 파이프라인 탐지, Low-code 기반 애플리케이션 생성 기능을 제공하는 데이터 프로젝트</li>
+      <li>Low-code 플랫폼 원클릭 배포 자동화 구현</li>
+    </ul>
+  </div>
+</details>
+<details markdown="14">
+  <summary>FinOps (26.03 ~ 26.05)</summary>
+  <div>
+    <ul>
+      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, TypeSciprt, @tanstack/react-query, Zustand, MUI</li>
+      <li>AWS 비용 및 청구 데이터를 조회·분석하고, 청구 내역 다운로드와 이상 비용 탐지 기능을 제공하며, LLM 기반 실시간 스트리밍 응답 기능을 구현한 클라우드 비용 관리 프로젝트</li>
+      <li>LLM 실시간 스트리밍 아키텍처(SSE) 구축</li>
+    </ul>
+  </div>
+</details>
+<details markdown="13">
+  <summary>base project (26.01 ~ 26.03)</summary>
+  <div>
+    <ul>
+      <li><b>개발 언어 및 프레임워크/라이브러리</b> : React-18.x, TypeSciprt, @tanstack/react-query, Zustand, MUI</li>
+      <li>반복적으로 사용되는 인증·사용자·메뉴·권한·공통코드 관리 기능을 사전 구축한 Base Project를 개발하여, 신규 프로젝트의 초기 개발 속도와 공통 기능 구현 효율을 높였습니다.</li>
+      <li>공통 코드 컨벤션 설계</li>
+      <li>공통 코드 및 컴포넌트 설계</li>
+      <li>동적 라우팅 설계</li>
+    </ul>
+  </div>
+</details>
+<details markdown="12">
+  <summary>[CJ ONS] Secure Portal (25.09 ~ 25.10)</summary>
+  <div>
+    <ul>
+      <li>CJ ONS 내부에서 활용하는 보안 사이트</li>
+      <li>텍스트 에디터 - tiptap 활용</li>
+      <li>파일 첨부 - filepond 활용</li>
+    </ul>
+  </div>
+</details>
+
 ### 2025
 <details markdown="7">
   <summary>[경기도교육청] AI 진로진학시스템 꿈it(잇)다 - (24.10 ~ 25.03)</summary>

@@ -9,11 +9,14 @@
 
 <h3>⚙️ Tools</h3>
 
-<img src="https://img.shields.io/badge/VSCode-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/ClaudeCode-D97757?style=flat&logo=claduecode&logoColor=white"/> <img src="https://img.shields.io/badge/Codex-FFFFFF?style=flat&logo=gpt&logoColor=black"/>
 
+<h3>⚙️ Infra & Devops</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxmin&layout=donut)](https://github.com/zxxmin/github-readme-stats)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=aws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS ECR-FF9900?style=flat&logo=aws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS SDK-FF9900?style=flat&logo=aws&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+
 
 ### 2026
 <details markdown="15">

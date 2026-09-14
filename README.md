@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:C7C7BA,50:E5E6DC,100:EAEBE4&text=zxxmin&height=150&fontColor=ffffff&stroke=000000)
 
+<h3>BLOG</h3>
+![https://zxxmin.github.io/](https://zxxmin.github.io/)
+
 <h3>💕 Love it</h3>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-2a2f39?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-white?style=flat&logo=Jquery&logoColor=0868AC"/><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/>

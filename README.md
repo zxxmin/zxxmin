@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:C7C7BA,50:E5E6DC,100:EAEBE4&text=zxxmin&height=150&fontColor=ffffff&stroke=000000)
 
-<h3>BLOG</h3>
-![https://zxxmin.github.io/](https://zxxmin.github.io/)
+<h3>✏️ BLOG</h3>
+[기술 블로그 바로가기](https://zxxmin.github.io/)
 
 <h3>💕 Love it</h3>
 
